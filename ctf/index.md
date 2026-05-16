@@ -9,3 +9,7 @@
 7. ArcaneVector
 8.
 9. sigilcore
+10.
+11. SyntheticOracle
+12. ?
+13. <submit>
