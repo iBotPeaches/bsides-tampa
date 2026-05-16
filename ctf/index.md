@@ -8,4 +8,4 @@
 6. nanocodex
 7. ArcaneVector
 8.
-9.
+9. sigilcore
