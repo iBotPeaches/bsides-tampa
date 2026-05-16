@@ -5,7 +5,7 @@
 3. datagrimoire
 4.
 5. neoncipher
-6. NanoCodex
-7.
+6. nanocodex
+7. ArcaneVector
 8.
 9.
