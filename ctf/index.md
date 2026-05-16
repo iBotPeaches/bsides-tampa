@@ -7,7 +7,7 @@
 5. neoncipher
 6. nanocodex
 7. ArcaneVector
-8.
+8. OmegaTemple
 9. sigilcore
 10.
 11. SyntheticOracle
