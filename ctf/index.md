@@ -1,6 +1,6 @@
 # Puzzles
 
-1.
+1. cryptoglyph
 2. cryptexeon
 3. datagrimoire
 4. NecroByte
